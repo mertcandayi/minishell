@@ -1,1 +1,1 @@
-# minishell
+<h1 align="center">🌌 Shell ve Ötesi</h1>
